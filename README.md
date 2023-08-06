@@ -1,6 +1,6 @@
+### Hello world!
 ## Hello world!
-# Hello world!
-<h1>Hello World</h1>
+# Hello World
 - 👋 Hi, I’m @KianMun, an ex-Molecular Biologist interested in coding.
 - :computer:  Currently pursuing my Graduate Diploma in System Analysis from Institute of Systems Science from :school:National University of Singapore
 - 👀 I’m interested in creating applications. 
