@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C#, Python, Javascript, HTML and CSS.
 - 💞️ I’m looking to collaborate on any Biology or Molecular Biology applications.
 - 📫 How to reach me ...
-- 📧 kianmun80@yahoo.com
+- 
 
 <!---
 KianMun/KianMun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
