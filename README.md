@@ -6,6 +6,7 @@
 - 👀 I’m interested in creating applications. 
 - 🌱 I’m currently learning C#, Python, SQL, Javascript, HTML and CSS, ASP.NET.
 - 🌱 I’m currently learning Java, Java Spring Boot.
+- 🌱 I’m currently learning Android.
 - 🌱 I’m currently learning CICD, UML, Software Analysis and Design.
 - 💞️ I’m looking to collaborate on any Biology or Molecular Biology applications.
 - 📫 How to reach me ...
