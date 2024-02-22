@@ -8,8 +8,8 @@
 - 📖 I know Java, Java Spring Boot.
 - 📖 I know Python Flask.
 - 📖 I know basic Machine Learning.
-- 🌱 I’m currently learning Android.
-- 🌱 I’m currently learning CICD, UML, Software Analysis and Design.
+- 🌱 I’m familiar with Android.
+- 🌱 I’m familiar with CICD, UML, Software Analysis and Design.
 - 💞️ I’m looking to collaborate on any Biology or Molecular Biology applications.
 - 📫 How to reach me ...
   - https://www.linkedin.com/in/kian-mun-chan-82834148/
