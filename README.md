@@ -7,6 +7,7 @@
 - 📖 I know C#, Python, SQL, Javascript, HTML and CSS, ASP.NET.
 - 📖 I know Java, Java Spring Boot.
 - 📖 I know Python Flask.
+- 📖 I know basic Machine Learning.
 - 🌱 I’m currently learning Android.
 - 🌱 I’m currently learning CICD, UML, Software Analysis and Design.
 - 💞️ I’m looking to collaborate on any Biology or Molecular Biology applications.
