@@ -2,7 +2,8 @@
 ## Hello world !!
 # Hello World !!!
 - 👋 Hi, I’m @KianMun, an ex-Molecular Biologist interested in coding. :dependabot:
-- :computer:  Currently pursuing my Graduate Diploma in System Analysis from Institute of Systems Science from :school:National University of Singapore
+- Working as a Software Developer in Enterprise Content Management
+- :computer:  Graduated from :school:National University of Singapore's Institute of Systems Science with a Graduate Diploma in System Analysis 
 - 👀 I’m interested in creating applications. 
 - 📖 I know C#, Python, SQL, Javascript, HTML and CSS, ASP.NET.
 - 📖 I know Java, Java Spring Boot.
